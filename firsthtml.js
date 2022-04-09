@@ -1,2 +1,3 @@
-const interestRate = 0.3;
-console.log(interestRate);
+let name = "Mosh";
+let age = 30;
+let isApproved = false;
