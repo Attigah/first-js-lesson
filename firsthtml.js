@@ -1,3 +1,3 @@
 let selectedColors = ['red', 'blue'];
-selectedColors[2] = 'green';
+selectedColors[2] = 1;
 console.log(selectedColors);
